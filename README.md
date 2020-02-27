@@ -15,11 +15,11 @@ Siga os passos abaixo sempre que quiser executar os códigos desse repositório.
 
     - __Windows__:
     ```sh
-    $ activate mpdl
+    $ activate unipe
     ```
     - __Linux/Mac__:
     ```sh
-    $ source activate mpdl
+    $ source activate unipe
     ```
 2. Execute o Jupyter Notebook:
     ```sh
